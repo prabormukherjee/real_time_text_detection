@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_sample</folder>
+	<filename>t.jpg</filename>
+	<path>C:/Users/Administrator/Desktop/image_sample/t.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign_readable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>63</ymin>
+			<xmax>279</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>
